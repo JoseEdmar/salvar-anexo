@@ -1,0 +1,50 @@
+{
+    "campo_localizar_id": [
+        377,
+        370
+    ],
+    "btn_anexo": [
+        1230,
+        404
+    ],
+    "campo_comentario": [
+        548,
+        530
+    ],
+    "btn_selecionar_doc": [
+        503,
+        635
+    ],
+    "arquivo_na_janela": [
+        297,
+        212
+    ],
+    "area_neutra": [
+        1561,
+        642
+    ],
+    "btn_salvar": [
+        431,
+        883
+    ],
+    "barra_pasta": [
+        710,
+        1054
+    ],
+    "arquivo_excluir": [
+        309,
+        248
+    ],
+    "barra_navegador": [
+        810,
+        1042
+    ],
+    "menu_cadastros": [
+        566,
+        398
+    ],
+    "btn_voltar_localizar": [
+        817,
+        561
+    ]
+}
