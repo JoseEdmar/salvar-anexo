@@ -84,8 +84,8 @@ O comentário é colado com `Ctrl+V` (via `pyperclip`) para evitar problemas com
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/salvamento-automatico.git
-cd salvamento-automatico
+git clone https://github.com/JoseEdmar/salvar-anexo.git
+cd salvar-anexo
 python -m pip install -r requirements.txt
 ```
 
@@ -124,7 +124,7 @@ Mova o mouse para o **canto superior esquerdo da tela** (fail-safe do PyAutoGUI)
 ## 🗃️ Estrutura
 
 ```text
-salvamento-automatico/
+salvar-anexo/
 ├── painel_salvamento.py   # painel e automação
 ├── iniciar.bat            # abre o painel com o Python portátil
 ├── requirements.txt
@@ -147,7 +147,7 @@ Se o projeto ficar dentro de uma pasta que também contém o Python portátil:
 ```text
 PortableGit/
 ├── python/python/python.exe
-└── salvamento-automatico/
+└── salvar-anexo/
 ```
 
 No VS Code, crie `.vscode/settings.json` com um caminho relativo:
